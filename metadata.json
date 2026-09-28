@@ -1,0 +1,5 @@
+{
+  "name": "SENTINEL - Orbital Intelligence",
+  "description": "An advanced mission control interface for analyzing space domain awareness data, identifying orbital risks, and providing strategic intelligence using Gemini's reasoning capabilities.",
+  "requestFramePermissions": []
+}
